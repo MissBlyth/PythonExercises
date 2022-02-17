@@ -11,7 +11,7 @@ today = datetime.datetime.now()
 print(today.year)
 
 #set christmas date
-christmas = datetime.datetime(2021,12,25)
+christmas = datetime.datetime(2022,12,25)
 print(christmas)
 
 #how long til christmas
