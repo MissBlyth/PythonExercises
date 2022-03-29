@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<reviews>
+    <restaurant name="Pizza Palace" rating="4" cuisine="Italian">=
+        <comment>Great food, great service.</comment>
+        <comment>Food was cold.</comment>
+        <comment>Delicious food, had to wait for a table but was great in the end.</comment>
+    </restaurant>
+
+    <restaurant name="Tacqueria Royale" rating="5" cuisine="Mexican">
+        <comment>Best tacos I've ever had and I've been to Mexico!</comment>
+        <comment>Great atmosphere, loved the music too!</comment>
+    </restaurant>
+</reviews>
